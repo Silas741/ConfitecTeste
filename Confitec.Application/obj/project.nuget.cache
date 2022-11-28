@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bmd9l/DtHacjoJzLbojArrQGsPGT7c5a7P5y3TE/vAaRKFk25p2VMoT0cXXcyetErC3NNuGpiBqGePDbmtbdfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SilasdaSilvaPrado\\source\\repos\\TesteConfitec\\Confitec.Application\\Confitec.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\automapper.collection\\9.0.0\\automapper.collection.9.0.0.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\6.0.0\\mediatr.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\netdevpack\\6.0.1\\netdevpack.6.0.1.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

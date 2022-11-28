@@ -1,0 +1,15 @@
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\bin\Debug\net6.0\Confitec.Infra.CrossCutting.Bus.deps.json
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\bin\Debug\net6.0\Confitec.Infra.CrossCutting.Bus.dll
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\bin\Debug\net6.0\Confitec.Infra.CrossCutting.Bus.pdb
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\bin\Debug\net6.0\Confitec.User.Domain.dll
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\bin\Debug\net6.0\Confitec.User.Domain.pdb
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\obj\Debug\net6.0\Confitec.Infra.CrossCutting.Bus.csproj.AssemblyReference.cache
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\obj\Debug\net6.0\Confitec.Infra.CrossCutting.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\obj\Debug\net6.0\Confitec.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\obj\Debug\net6.0\Confitec.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\obj\Debug\net6.0\Confitec.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\obj\Debug\net6.0\Confitec.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\obj\Debug\net6.0\Confitec.Infra.CrossCutting.Bus.dll
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\obj\Debug\net6.0\refint\Confitec.Infra.CrossCutting.Bus.dll
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\obj\Debug\net6.0\Confitec.Infra.CrossCutting.Bus.pdb
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.CrossCutting.Bus\obj\Debug\net6.0\ref\Confitec.Infra.CrossCutting.Bus.dll

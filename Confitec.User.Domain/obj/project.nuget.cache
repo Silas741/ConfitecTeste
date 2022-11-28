@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/OIFGHYi44CQYmHj4oHlB4JkME9jmsxi7klNnjtdpG4nNCjeKNh4xMt9ch7ngY00ykbhO/7uq+0lPQiECR7cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SilasdaSilvaPrado\\source\\repos\\TesteConfitec\\Confitec.User.Domain\\Confitec.User.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\6.0.0\\mediatr.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\SilasdaSilvaPrado\\.nuget\\packages\\netdevpack\\6.0.1\\netdevpack.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

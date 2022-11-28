@@ -1,0 +1,12 @@
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.User.Domain\bin\Debug\net6.0\Confitec.User.Domain.deps.json
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.User.Domain\bin\Debug\net6.0\Confitec.User.Domain.dll
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.User.Domain\bin\Debug\net6.0\Confitec.User.Domain.pdb
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.User.Domain\obj\Debug\net6.0\Confitec.User.Domain.csproj.AssemblyReference.cache
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.User.Domain\obj\Debug\net6.0\Confitec.User.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.User.Domain\obj\Debug\net6.0\Confitec.User.Domain.AssemblyInfoInputs.cache
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.User.Domain\obj\Debug\net6.0\Confitec.User.Domain.AssemblyInfo.cs
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.User.Domain\obj\Debug\net6.0\Confitec.User.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.User.Domain\obj\Debug\net6.0\Confitec.User.Domain.dll
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.User.Domain\obj\Debug\net6.0\refint\Confitec.User.Domain.dll
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.User.Domain\obj\Debug\net6.0\Confitec.User.Domain.pdb
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.User.Domain\obj\Debug\net6.0\ref\Confitec.User.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\obj\Debug\net6.0\Confitec.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\obj\Debug\net6.0\Confitec.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\obj\Debug\net6.0\Confitec.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\obj\Debug\net6.0\Confitec.Infra.Data.AssemblyInfo.cs
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\obj\Debug\net6.0\Confitec.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\bin\Debug\net6.0\Confitec.Infra.Data.deps.json
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\bin\Debug\net6.0\Confitec.Infra.Data.runtimeconfig.json
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\bin\Debug\net6.0\Confitec.Infra.Data.dll
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\bin\Debug\net6.0\Confitec.Infra.Data.pdb
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\bin\Debug\net6.0\Confitec.User.Domain.dll
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\bin\Debug\net6.0\Confitec.User.Domain.pdb
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\obj\Debug\net6.0\Confitec.Infra.Data.csproj.CopyComplete
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\obj\Debug\net6.0\Confitec.Infra.Data.dll
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\obj\Debug\net6.0\refint\Confitec.Infra.Data.dll
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\obj\Debug\net6.0\Confitec.Infra.Data.pdb
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\obj\Debug\net6.0\Confitec.Infra.Data.genruntimeconfig.cache
+C:\Users\SilasdaSilvaPrado\source\repos\TesteConfitec\Confitec.Infra.Data\obj\Debug\net6.0\ref\Confitec.Infra.Data.dll
